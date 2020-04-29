@@ -1,2 +1,2 @@
 # Leetcode-Submissions
-Contains all the submissions made in leetcode
+Contains all my submissions made in leetcode.
